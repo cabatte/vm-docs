@@ -1,10 +1,6 @@
 {
     "latestVersion": "0000",
     "latestVersionCode": 7727,
-    "url": "https://github.com/javiersantos/AppUpdater/releases",
-    "releaseNotes": [
-      "- First evolution",
-      "- Second evolution",
-      "- Bug fixes"
-    ]
-  }
+    "url": "http://dummy.com",
+    "releaseNotes": [""]
+}
